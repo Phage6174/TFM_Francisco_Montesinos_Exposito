@@ -1,2 +1,6 @@
 # TFM_Francisco_Montesinos_Exposito
-Co-expression network analysis demonstrate pervasive occurrence of two negatively correlated gene modules in cancer.
+
+This repository aims to store the code and data used for the co-expression network analysis analysis so as to demonstrate pervasive occurrence of two negatively correlated gene modules in cancer.
+
+## 
+
